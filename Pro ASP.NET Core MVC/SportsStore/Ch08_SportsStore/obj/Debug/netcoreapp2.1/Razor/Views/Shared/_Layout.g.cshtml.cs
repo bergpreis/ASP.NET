@@ -57,12 +57,12 @@ using Ch08_SportsStore.Models.ViewModels;
             WriteLiteral("<!DOCTYPE html>\r\n\r\n<html lang=\"de\">\r\n");
             EndContext();
             BeginContext(37, 213, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "bd3c308d640c4bc3a1353cb447dcb183", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "fde48a62fc9a4b2db8055a50f9d7070c", async() => {
                 BeginContext(43, 95, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <meta charset=\"utf-8\" />\r\n    ");
                 EndContext();
                 BeginContext(138, 71, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "36159e621ee5499bb4e4201033175bda", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "27937ccd33904dc89c8a87f13277b130", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -96,7 +96,7 @@ using Ch08_SportsStore.Models.ViewModels;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(252, 374, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d62ae2c7930f405f85f6e04fb0935be8", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e2b7d91b6c5546f3aad551b9b58acb63", async() => {
                 BeginContext(258, 318, true);
                 WriteLiteral(@"
     <div class=""navbar navbar-dark bg-primary"" role=""navigation"">

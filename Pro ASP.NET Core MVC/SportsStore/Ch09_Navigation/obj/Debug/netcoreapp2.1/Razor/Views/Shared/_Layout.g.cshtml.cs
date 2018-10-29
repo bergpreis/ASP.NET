@@ -62,12 +62,12 @@ using Ch09_Navigation.Infrastructure;
             WriteLiteral("<!DOCTYPE html>\r\n\r\n<html lang=\"de\">\r\n");
             EndContext();
             BeginContext(37, 213, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "563fe9f759ba4560bf8a321fda4a49b9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "09b443dd3913484da578ce651bbe6d21", async() => {
                 BeginContext(43, 95, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <meta charset=\"utf-8\" />\r\n    ");
                 EndContext();
                 BeginContext(138, 71, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "f25e9e4c6f924281a332722af69b3698", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("link", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "09adb991071f4c1e9c98103a6b043b59", async() => {
                 }
                 );
                 __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_UrlResolutionTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper>();
@@ -101,7 +101,7 @@ using Ch09_Navigation.Infrastructure;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(252, 386, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d893f9d6d5eb49d5849a7f410455fcaf", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ebfeb19e85144ade9c285390b9c93025", async() => {
                 BeginContext(258, 225, true);
                 WriteLiteral("\r\n    <div class=\"navbar navbar-dark bg-dark\" role=\"navigation\">\r\n        <a class=\"navbar-brand\" href=\"#\">Sports Store</a>\r\n    </div>\r\n    <div class=\"row m-1 p-1\">\r\n        <div id=\"categories\" class=\"col-4\">\r\n            ");
                 EndContext();

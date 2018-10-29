@@ -5,10 +5,9 @@ using System.Threading.Tasks;
 
 namespace Ch10_CompletingTheCart.Models
 {
-    public class CartLine
+    public interface IOrderRepository
     {
-        public int CartLineId { get; set; }
-        public Product Product { get; set; }
-        public int Quantity { get; set; }
+        IQueryable<Order> Orders { get; }
+        void SaveOrder(Order order);
     }
 }

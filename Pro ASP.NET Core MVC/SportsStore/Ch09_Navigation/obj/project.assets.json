@@ -5170,7 +5170,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.2": {
-      "sha512": "sa/cztXesLyTgCiYuef0RK2EAImnak0w2wrjCh/YBTvbn4iV2eTy0q3F8CyUkGiaYEyxUKGVTko6+7SMRBL4Gg==",
+      "sha512": "ab4+TZw3Sxqrr5TwrwVyABeQkhSxYMJXgG6yZw7T+r6Vz+hcOt+pK79o15ESG7kZvWAK9wRG7emnTIia5O6R1Q==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.2",
       "files": [
@@ -11501,7 +11501,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\me\\.nuget\\packages\\": {},
+    "C:\\Users\\Jörg\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -11510,14 +11510,14 @@
       "projectUniqueName": "D:\\Git\\HBU\\ASP.NET\\Pro ASP.NET Core MVC\\SportsStore\\Ch09_Navigation\\Ch09_Navigation.csproj",
       "projectName": "Ch09_Navigation",
       "projectPath": "D:\\Git\\HBU\\ASP.NET\\Pro ASP.NET Core MVC\\SportsStore\\Ch09_Navigation\\Ch09_Navigation.csproj",
-      "packagesPath": "C:\\Users\\me\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Jörg\\.nuget\\packages\\",
       "outputPath": "D:\\Git\\HBU\\ASP.NET\\Pro ASP.NET Core MVC\\SportsStore\\Ch09_Navigation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\me\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jörg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

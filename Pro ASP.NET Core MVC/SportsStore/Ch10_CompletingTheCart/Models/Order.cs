@@ -31,6 +31,9 @@ namespace Ch10_CompletingTheCart.Models
 
         public string Zip { get; set; }
 
-        .... hier gehts weiter !!!
+        [Required(ErrorMessage = "Please enter a country name")]
+        public string Country { get; set; }
+
+        public bool GiftWrap { get; set; }
     }
 }

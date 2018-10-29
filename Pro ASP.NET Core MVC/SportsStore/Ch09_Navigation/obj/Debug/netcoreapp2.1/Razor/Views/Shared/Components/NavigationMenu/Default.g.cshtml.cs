@@ -63,7 +63,7 @@ using Ch09_Navigation.Infrastructure;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(30, 141, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7d1fe285b2ff4af280f9b36d83b1183f", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d8f9ff98537a40b8af02dfaec2cb84df", async() => {
                 BeginContext(155, 12, true);
                 WriteLiteral("\r\n    Home\r\n");
                 EndContext();
@@ -103,7 +103,7 @@ using Ch09_Navigation.Infrastructure;
             WriteLiteral("    ");
             EndContext();
             BeginContext(219, 271, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4bada10b42fd4683a287cfdec1b890d3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "28190abd2d504f739787c50778b00823", async() => {
                 BeginContext(461, 10, true);
                 WriteLiteral("\r\n        ");
                 EndContext();

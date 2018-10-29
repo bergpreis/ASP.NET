@@ -28,3 +28,4 @@ D:\Git\HBU\ASP.NET\Pro ASP.NET Core MVC\SportsStore\Ch10_CompletingTheCart\obj\D
 D:\Git\HBU\ASP.NET\Pro ASP.NET Core MVC\SportsStore\Ch10_CompletingTheCart\obj\Debug\netcoreapp2.1\Ch10_CompletingTheCart.pdb
 D:\Git\HBU\ASP.NET\Pro ASP.NET Core MVC\SportsStore\Ch10_CompletingTheCart\obj\Debug\netcoreapp2.1\Ch10_CompletingTheCart.csproj.CopyComplete
 D:\Git\HBU\ASP.NET\Pro ASP.NET Core MVC\SportsStore\Ch10_CompletingTheCart\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\CartSummary\Default.g.cshtml.cs
+D:\Git\HBU\ASP.NET\Pro ASP.NET Core MVC\SportsStore\Ch10_CompletingTheCart\obj\Debug\netcoreapp2.1\Razor\Views\Order\Checkout.g.cshtml.cs
